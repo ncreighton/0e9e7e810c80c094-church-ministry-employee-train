@@ -1,0 +1,2 @@
+# 0e9e7e810c80c094-church-ministry-employee-train
+Professional church ministry n8n automation workflow — without the professional price tag.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Church Ministry Employee Training Portal — fully configured and ready
